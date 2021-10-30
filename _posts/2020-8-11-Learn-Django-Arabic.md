@@ -56,7 +56,8 @@ series: "سلسلة تعلم بايثون بالعربي"
 - [Blog API with Django Rest Framework](https://www.youtube.com/playlist?list=PLl7A6RG4XKeYrNzeF48o-z53DA14JZ-d9)
 
 5. محمد عيسى:
-- [Python-Django-Web دورة بايثون ويب ديجانكو.](https://www.youtube.com/playlist?list=PLMYF6NkLrdN9JJ7r0APq7O87gucjYWRfD)
+- [دورة جانكو بايثون Django framework Python.](https://www.youtube.com/playlist?list=PLMYF6NkLrdN_5wAJRbEoQYl62-qM3aB8t)
+- [2- Python-Django-Web دورة بايثون ويب ديجانكو.](https://www.youtube.com/playlist?list=PLMYF6NkLrdN9JJ7r0APq7O87gucjYWRfD)
 - [Python 3 Django framework 1.11 مشروع من الصفر الى عمل تطبيق ويب جانكو بايثون.](https://www.youtube.com/playlist?list=PLMYF6NkLrdN-3ecpi7jD4pwxsyPVHWb4C)
 - [Django 2 REST API JWT CRUD.](https://www.youtube.com/playlist?list=PLMYF6NkLrdN_8KPztmgiAZpsNfXJcI-v5)
 
