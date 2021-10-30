@@ -1,0 +1,377 @@
+I"�)<div class="categories">
+    <a name="top"></a>
+    <ul>
+    
+    
+    <li>
+        <a href="#course">course <span>5</span></a>
+    </li>
+    
+    <li>
+        <a href="#course-arabic">course arabic <span>3</span></a>
+    </li>
+    
+    <li>
+        <a href="#django">django <span>1</span></a>
+    </li>
+    
+    <li>
+        <a href="#django-arabic">django arabic <span>1</span></a>
+    </li>
+    
+    <li>
+        <a href="#docker">docker <span>1</span></a>
+    </li>
+    
+    <li>
+        <a href="#docker-arabic">docker arabic <span>1</span></a>
+    </li>
+    
+    <li>
+        <a href="#linux">linux <span>1</span></a>
+    </li>
+    
+    <li>
+        <a href="#linux-arabic">linux arabic <span>1</span></a>
+    </li>
+    
+    <li>
+        <a href="#python">python <span>3</span></a>
+    </li>
+    
+    <li>
+        <a href="#python-arabic">python arabic <span>2</span></a>
+    </li>
+    
+    </ul>
+</div>
+
+<div id="blog-index">
+    
+        <h3 class="archivetitle">
+            <a name="course"></a>
+            course
+            <i class="badge">(5)</i>
+        </h3>
+        <ul class="side-nav">
+            
+            
+                
+                    <li>
+                    <a href="/Learn-Django-Arabic/">مصادر عربية لتعلم إطار العمل Django</a>
+                    <span id="data-category"> 08/11/20 </span>
+                    </li>
+                
+            
+                
+                    <li>
+                    <a href="/Learn-Docker-Arabic/">مصادر عربية لتعلم تقنية Docker</a>
+                    <span id="data-category"> 05/15/20 </span>
+                    </li>
+                
+            
+                
+                    <li>
+                    <a href="/Learn-Python-Arabic/">مصادر عربية لتعلم لغة البرمجة بايثون</a>
+                    <span id="data-category"> 02/04/19 </span>
+                    </li>
+                
+            
+                
+                    <li>
+                    <a href="/Learn-Python-Arabic/">مصادر عربية لتعلم لغة البرمجة بايثون</a>
+                    <span id="data-category"> 02/04/19 </span>
+                    </li>
+                
+            
+                
+                    <li>
+                    <a href="/Learn-Linux-Arabic/">مصادر عربية لتعلم نظام التشغيل GNU/Linux</a>
+                    <span id="data-category"> 12/07/20 </span>
+                    </li>
+                
+            
+        <a href="/categories/#top" class="top">
+            <small>العودة إلى أعلى الصفحة</small>
+          </a>
+        </ul>
+    
+        <h3 class="archivetitle">
+            <a name="course-arabic"></a>
+            course arabic
+            <i class="badge">(3)</i>
+        </h3>
+        <ul class="side-nav">
+            
+            
+                
+                    <li>
+                    <a href="/Learn-Django-Arabic/">مصادر عربية لتعلم إطار العمل Django</a>
+                    <span id="data-category"> 08/11/20 </span>
+                    </li>
+                
+            
+                
+                    <li>
+                    <a href="/Learn-Docker-Arabic/">مصادر عربية لتعلم تقنية Docker</a>
+                    <span id="data-category"> 05/15/20 </span>
+                    </li>
+                
+            
+                
+            
+                
+            
+                
+                    <li>
+                    <a href="/Learn-Linux-Arabic/">مصادر عربية لتعلم نظام التشغيل GNU/Linux</a>
+                    <span id="data-category"> 12/07/20 </span>
+                    </li>
+                
+            
+        <a href="/categories/#top" class="top">
+            <small>العودة إلى أعلى الصفحة</small>
+          </a>
+        </ul>
+    
+        <h3 class="archivetitle">
+            <a name="django"></a>
+            django
+            <i class="badge">(1)</i>
+        </h3>
+        <ul class="side-nav">
+            
+            
+                
+                    <li>
+                    <a href="/Learn-Django-Arabic/">مصادر عربية لتعلم إطار العمل Django</a>
+                    <span id="data-category"> 08/11/20 </span>
+                    </li>
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+        <a href="/categories/#top" class="top">
+            <small>العودة إلى أعلى الصفحة</small>
+          </a>
+        </ul>
+    
+        <h3 class="archivetitle">
+            <a name="django-arabic"></a>
+            django arabic
+            <i class="badge">(1)</i>
+        </h3>
+        <ul class="side-nav">
+            
+            
+                
+                    <li>
+                    <a href="/Learn-Django-Arabic/">مصادر عربية لتعلم إطار العمل Django</a>
+                    <span id="data-category"> 08/11/20 </span>
+                    </li>
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+        <a href="/categories/#top" class="top">
+            <small>العودة إلى أعلى الصفحة</small>
+          </a>
+        </ul>
+    
+        <h3 class="archivetitle">
+            <a name="docker"></a>
+            docker
+            <i class="badge">(1)</i>
+        </h3>
+        <ul class="side-nav">
+            
+            
+                
+            
+                
+                    <li>
+                    <a href="/Learn-Docker-Arabic/">مصادر عربية لتعلم تقنية Docker</a>
+                    <span id="data-category"> 05/15/20 </span>
+                    </li>
+                
+            
+                
+            
+                
+            
+                
+            
+        <a href="/categories/#top" class="top">
+            <small>العودة إلى أعلى الصفحة</small>
+          </a>
+        </ul>
+    
+        <h3 class="archivetitle">
+            <a name="docker-arabic"></a>
+            docker arabic
+            <i class="badge">(1)</i>
+        </h3>
+        <ul class="side-nav">
+            
+            
+                
+            
+                
+                    <li>
+                    <a href="/Learn-Docker-Arabic/">مصادر عربية لتعلم تقنية Docker</a>
+                    <span id="data-category"> 05/15/20 </span>
+                    </li>
+                
+            
+                
+            
+                
+            
+                
+            
+        <a href="/categories/#top" class="top">
+            <small>العودة إلى أعلى الصفحة</small>
+          </a>
+        </ul>
+    
+        <h3 class="archivetitle">
+            <a name="linux"></a>
+            linux
+            <i class="badge">(1)</i>
+        </h3>
+        <ul class="side-nav">
+            
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+                    <li>
+                    <a href="/Learn-Linux-Arabic/">مصادر عربية لتعلم نظام التشغيل GNU/Linux</a>
+                    <span id="data-category"> 12/07/20 </span>
+                    </li>
+                
+            
+        <a href="/categories/#top" class="top">
+            <small>العودة إلى أعلى الصفحة</small>
+          </a>
+        </ul>
+    
+        <h3 class="archivetitle">
+            <a name="linux-arabic"></a>
+            linux arabic
+            <i class="badge">(1)</i>
+        </h3>
+        <ul class="side-nav">
+            
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+                    <li>
+                    <a href="/Learn-Linux-Arabic/">مصادر عربية لتعلم نظام التشغيل GNU/Linux</a>
+                    <span id="data-category"> 12/07/20 </span>
+                    </li>
+                
+            
+        <a href="/categories/#top" class="top">
+            <small>العودة إلى أعلى الصفحة</small>
+          </a>
+        </ul>
+    
+        <h3 class="archivetitle">
+            <a name="python"></a>
+            python
+            <i class="badge">(3)</i>
+        </h3>
+        <ul class="side-nav">
+            
+            
+                
+                    <li>
+                    <a href="/Learn-Django-Arabic/">مصادر عربية لتعلم إطار العمل Django</a>
+                    <span id="data-category"> 08/11/20 </span>
+                    </li>
+                
+            
+                
+            
+                
+                    <li>
+                    <a href="/Learn-Python-Arabic/">مصادر عربية لتعلم لغة البرمجة بايثون</a>
+                    <span id="data-category"> 02/04/19 </span>
+                    </li>
+                
+            
+                
+                    <li>
+                    <a href="/Learn-Python-Arabic/">مصادر عربية لتعلم لغة البرمجة بايثون</a>
+                    <span id="data-category"> 02/04/19 </span>
+                    </li>
+                
+            
+                
+            
+        <a href="/categories/#top" class="top">
+            <small>العودة إلى أعلى الصفحة</small>
+          </a>
+        </ul>
+    
+        <h3 class="archivetitle">
+            <a name="python-arabic"></a>
+            python arabic
+            <i class="badge">(2)</i>
+        </h3>
+        <ul class="side-nav">
+            
+            
+                
+            
+                
+            
+                
+                    <li>
+                    <a href="/Learn-Python-Arabic/">مصادر عربية لتعلم لغة البرمجة بايثون</a>
+                    <span id="data-category"> 02/04/19 </span>
+                    </li>
+                
+            
+                
+                    <li>
+                    <a href="/Learn-Python-Arabic/">مصادر عربية لتعلم لغة البرمجة بايثون</a>
+                    <span id="data-category"> 02/04/19 </span>
+                    </li>
+                
+            
+                
+            
+        <a href="/categories/#top" class="top">
+            <small>العودة إلى أعلى الصفحة</small>
+          </a>
+        </ul>
+    
+</div>
+:ET

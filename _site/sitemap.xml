@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://0.0.0.0:4000/Learn-Python-Arabic/</loc>
+<lastmod>2019-02-04T00:00:00-06:00</lastmod>
+</url>
+<url>
+<loc>http://0.0.0.0:4000/Learn-Docker-Arabic/</loc>
+<lastmod>2020-05-15T00:00:00-05:00</lastmod>
+</url>
+<url>
+<loc>http://0.0.0.0:4000/Learn-Django-Arabic/</loc>
+<lastmod>2020-08-11T00:00:00-05:00</lastmod>
+</url>
+<url>
+<loc>http://0.0.0.0:4000/Learn-Linux-Arabic/</loc>
+<lastmod>2020-12-07T00:00:00-06:00</lastmod>
+</url>
+<url>
+<loc>http://0.0.0.0:4000/about/</loc>
+</url>
+<url>
+<loc>http://0.0.0.0:4000/donate/</loc>
+</url>
+<url>
+<loc>http://0.0.0.0:4000/</loc>
+</url>
+</urlset>

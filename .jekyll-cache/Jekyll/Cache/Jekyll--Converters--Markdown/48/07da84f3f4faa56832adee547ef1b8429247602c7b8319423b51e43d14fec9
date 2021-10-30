@@ -1,0 +1,141 @@
+I"�<p><img src="/images/posts/django.png" alt="image" /></p>
+
+<div class="panel seriesNote">
+    <strong>سلسلة تعلم بايثون بالعربي:</strong>
+    <ul>
+        
+        
+        
+        
+        <li>الجزء 1 -
+            
+            <a href="/Learn-Python-Arabic/">مصادر عربية لتعلم لغة البرمجة بايثون</a>
+            
+        </li>
+        
+        
+        
+        
+        <li>الجزء 2 -
+            
+            <a href="/Learn-Python-Arabic/">مصادر عربية لتعلم لغة البرمجة بايثون</a>
+            
+        </li>
+        
+        
+        
+        
+        
+        
+        <li>الجزء 3 -
+            
+            مصادر عربية لتعلم إطار العمل Django
+            
+        </li>
+        
+        
+        
+        
+    </ul>
+</div>
+
+<p><strong>المصادر المتوفرة لإطار العمل على عدة أشكال:</strong></p>
+
+<ol>
+  <li><a href="#المصادر-المرئية">مرئية</a>.</li>
+  <li><a href="#المصادر-المقروءة">مقروءة</a>.</li>
+  <li><a href="#المجتمعات-العربية">المجتمعات العربية</a></li>
+</ol>
+
+<h5 id="المصادر-المرئية">المصادر المرئية:</h5>
+
+<ol>
+  <li>شبكة علوم | أحمد أبو عيسى:
+    <ul>
+      <li><a href="https://www.youtube.com/playlist?list=PLTcPeoMjkuCxoyflbe4AuNWMZWulKVbr4">دورة Django 2.x.</a></li>
+    </ul>
+  </li>
+  <li>محمد شوشان:
+    <ul>
+      <li><a href="https://www.youtube.com/playlist?list=PLnzqK5HvcpwT8CbcwHMZkjlmN1BdbOBWB">Django Tutorials for Beginners.</a></li>
+      <li><a href="https://www.youtube.com/playlist?list=PLnzqK5HvcpwRCqH9qJSM67ZPBC7MD1Pa3">Django Tutorials Level 2 (REST API).</a></li>
+    </ul>
+  </li>
+  <li>محمود أحمد:
+    <ul>
+      <li><a href="https://www.youtube.com/playlist?list=PLtGOJcWqvbqfv9yQelR4HETqU35alUoW6">الدليل الشامل لتعلم دجانجو 3</a></li>
+      <li><a href="https://code4learn.teachable.com/p/python-django-full-guide-arabic">المرجع الشامل لتعلم دجانجو</a></li>
+      <li><a href="https://code4learn.teachable.com/p/learn-django-in-arabic">ابدا اتعلم جانغو.</a></li>
+      <li><a href="https://www.youtube.com/playlist?list=PLtGOJcWqvbqfio_BvIw_sLqHCUQ5XPpyZ">اساسيات برمجة المواقع بجانغو.</a></li>
+      <li><a href="https://www.youtube.com/playlist?list=PLtGOJcWqvbqfm1KN_9qc7vpn5e9XwP9U3">كيفيه التعامل مع المستخدمين دجانجو 2.</a></li>
+      <li><a href="https://www.youtube.com/playlist?list=PLtGOJcWqvbqe5gwryXy9uxpPhm236hL42">كيفية التعامل مع المستخدمين في جانغو.</a></li>
+      <li><a href="https://www.youtube.com/playlist?list=PLtGOJcWqvbqdSdcHeukSUJKxiUpELCnFg">برمجة متجر الكتروني ببايثون ودجانجو 2.</a></li>
+      <li><a href="https://www.youtube.com/playlist?list=PLtGOJcWqvbqc3cbs0cpSrr1jiGgSbjlik">التعامل مع ال Class Based Views في دجانجو</a></li>
+      <li><a href="https://code4learn.teachable.com/p/d4a3d7">مكتبات خاصة بجانغو.</a></li>
+      <li><a href="https://www.youtube.com/playlist?list=PLtGOJcWqvbqeVCY78dcKJFXItin0BEujT">كيفيه رفع مشروع جانجو على DigitalOcean.</a></li>
+      <li><a href="https://www.youtube.com/playlist?list=PLtGOJcWqvbqcq6ExuyRT0SNw8iKopFpV1">كلام في دجانجو Django.</a></li>
+    </ul>
+  </li>
+  <li>مهدي أحمد:
+    <ul>
+      <li><a href="https://www.youtube.com/playlist?list=PLl7A6RG4XKeaLJsAmb5O2F2T-QDxPc7Ut">Django Forms.</a></li>
+      <li><a href="https://www.youtube.com/playlist?list=PLl7A6RG4XKebUJtwiOm7Yso5HgN3jC8Ll">انشاء متجر الكتروني باستخدام جانقو.</a></li>
+      <li><a href="https://www.youtube.com/playlist?list=PLl7A6RG4XKeYoiobPZmO7HtIoFBt6hV0O">Real Time Chat with Django-channels.</a></li>
+      <li><a href="https://www.youtube.com/playlist?list=PLl7A6RG4XKeZfwfZ9QMb1XlTgwmTrxQBK">To Do List Django 2.0.</a></li>
+      <li><a href="https://www.youtube.com/playlist?list=PLl7A6RG4XKeYpg51JOvlf-Znj78i_V_n_">build advanced blog.</a></li>
+      <li><a href="https://www.youtube.com/playlist?list=PLl7A6RG4XKeYrNzeF48o-z53DA14JZ-d9">Blog API with Django Rest Framework</a></li>
+    </ul>
+  </li>
+  <li>محمد عيسى:
+    <ul>
+      <li><a href="https://www.youtube.com/playlist?list=PLMYF6NkLrdN9JJ7r0APq7O87gucjYWRfD">Python-Django-Web دورة بايثون ويب ديجانكو.</a></li>
+      <li><a href="https://www.youtube.com/playlist?list=PLMYF6NkLrdN-3ecpi7jD4pwxsyPVHWb4C">Python 3 Django framework 1.11 مشروع من الصفر الى عمل تطبيق ويب جانكو بايثون.</a></li>
+      <li><a href="https://www.youtube.com/playlist?list=PLMYF6NkLrdN_8KPztmgiAZpsNfXJcI-v5">Django 2 REST API JWT CRUD.</a></li>
+    </ul>
+  </li>
+  <li>أسماء الطويل:
+    <ul>
+      <li><a href="https://www.youtube.com/playlist?list=PL2z1gXAKH9c3XUn2HYMWRbAon4z6AQ4CL">Django Tutorial for Beginners.</a></li>
+      <li><a href="https://www.youtube.com/playlist?list=PL2z1gXAKH9c3dglbz0tvLqJTJPVPgjW1x">Django Rest Framework Tutorial.</a></li>
+    </ul>
+  </li>
+  <li>عبد الرحمن جمال:
+    <ul>
+      <li><a href="https://www.youtube.com/playlist?list=PLknwEmKsW8OtK_n48UOuYGxJPbSFrICxm">دورة دجانجو كامل للمبتدئين.</a></li>
+      <li><a href="https://www.youtube.com/playlist?list=PLknwEmKsW8Ot_JCzFaQ_XenaOe99VFmcM">دورة نظام ادارة مكتبة بالدجانجو.</a></li>
+    </ul>
+  </li>
+  <li>أخرى:
+    <ul>
+      <li><a href="https://app.barmej.com/%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%D8%A7%D8%AA-%D8%A7%D9%84%D9%88%D9%8A%D8%A8-%D8%A8%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85-Django">دورة برمجة المواقع مع جانغو من برمج دوت كوم.</a></li>
+      <li><a href="https://www.youtube.com/playlist?list=PLUgHGaXGKJGn6A_NLDGG4B5AZ-ZexVsPn">دورة إنشاء موقع Vezeta بإستخدام Django محمود رؤوف</a></li>
+      <li><a href="https://www.youtube.com/playlist?list=PLF8OvnCBlEY3VqZkeKeyVdJ_J1Ek0ECbs">دورة جانغو حسين الربيعي.</a></li>
+      <li><a href="https://www.youtube.com/playlist?list=PLdZYzC8fohEKjuYyvITqYc2vL0lAWRvhs">Python Django - تطوير المواقع لـ Elsafy Hegazy.</a></li>
+      <li><a href="https://www.youtube.com/playlist?list=PLHIfW1KZRIfnYEkYsNi5XJLI57OWMKBjM">جانجو حسونة أكاديمي</a></li>
+    </ul>
+  </li>
+</ol>
+
+<h5 id="المصادر-المقروءة">المصادر المقروءة:</h5>
+
+<ul>
+  <li><a href="https://code4learn.teachable.com/blog">مدونة تحتوي على مقالات خاصة بجانغو محمود أحمد.</a></li>
+  <li><a href="https://academy.hsoub.com/programming/python/django/">مقالات أكادمية حسوب.</a></li>
+  <li><a href="https://3alam.pro/albader/series/django">دورة إطار عمل جانغو من عالم البرمجة.</a></li>
+</ul>
+
+<h5 id="المجتمعات-العربية">المجتمعات العربية:</h5>
+
+<ul>
+  <li><a href="https://io.hsoub.com/django">مجتمع جانغو في حسوب.</a></li>
+  <li><a href="https://t.me/DjangoPython">مجتمع جانغو في تلغرام</a></li>
+</ul>
+
+<blockquote>
+  <p>وإني وإن كنتُ الأخيرَ زمانهُ … لآتٍ بما لم تستطعهُ الأوائلُ</p>
+
+  <ul>
+    <li>أبو العلاء المعري</li>
+  </ul>
+</blockquote>
+:ET

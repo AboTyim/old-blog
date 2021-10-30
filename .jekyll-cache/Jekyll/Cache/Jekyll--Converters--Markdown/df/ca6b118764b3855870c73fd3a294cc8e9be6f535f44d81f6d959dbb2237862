@@ -1,0 +1,434 @@
+I":Q<p><img src="/images/posts/python.png" alt="image" /></p>
+
+<div class="panel seriesNote">
+    <strong>سلسلة تعلم بايثون بالعربي:</strong>
+    <ul>
+        
+        
+        
+        
+        <li>الجزء 1 -
+            
+            مصادر عربية لتعلم لغة البرمجة بايثون
+            
+        </li>
+        
+        
+        
+        
+        
+        
+        <li>الجزء 2 -
+            
+            <a href="/Learn-Django-Arabic/">مصادر عربية لتعلم إطار العمل Django</a>
+            
+        </li>
+        
+        
+        
+        
+    </ul>
+</div>
+
+<p><strong>مصادر عربية لتعلم لغة البرمجة بايثون في جميع مجالات اللغة:</strong></p>
+
+<p>أولًا: هنالك دورات شاملة تقريبًا تحتوي على الأساسيات والبرمجة كائنية التوجه والتعامل مع قواعد البيانات والملفات إلخ …</p>
+
+<p>ثانيًا: هنالك دورات بسيطة لموضوع ما، مثلًا التعامل مع الشبكات فقط وهكذا.</p>
+
+<p>ملاحظة لم نراعي الترتيب في الأفضلية، عليك كطالب أن تدخل وتتصفح الدورات وترى أي دورة تناسبك، وضعنا لك وصف كل دورة حتى يسهل عليك اختيار ما يناسبك.</p>
+
+<h2 id="أنواع-مصادر-التعلم">أنواع مصادر التعلم:</h2>
+
+<ul>
+  <li><a href="#دورات-شاملة">دورات شاملة</a></li>
+  <li><a href="#دورات-حسب-الموضوع">دورات حسب الموضوع</a></li>
+  <li><a href="#كتب">كتب</a></li>
+  <li><a href="#مواقع">مواقع</a></li>
+  <li><a href="#مجتمعات-بايثون-العربية">مجتمعات بايثون العربية</a></li>
+</ul>
+
+<h5 id="دورات-شاملة">دورات شاملة:</h5>
+
+<ol>
+  <li>
+    <p><a href="https://www.youtube.com/playlist?list=PLMYF6NkLrdN98I0nEXOuR_gK8b4w-NJcN">محمد عيسى: دورة Python 3 اساسيات ومتقدم</a></p>
+
+    <ul>
+      <li>المقدمة وتثبيت المحرر PyCharm لكتابة الكود.</li>
+      <li>الأساسيات.</li>
+      <li>التعابير المنطقية.</li>
+      <li>معالجة الأخطاء</li>
+      <li>الدوال.</li>
+      <li>التعامل مع الملفات.</li>
+      <li>البرمجة كائنية التوجه OOP.</li>
+      <li>التعامل مع أهم المكاتب الأساسية.</li>
+      <li>تثبيت المكاتب الخارجية والتعامل معها، بالإضافة لبناء مكتبة خاصة بك.</li>
+      <li>التعامل مع قاعدة بيانات sqlite.</li>
+      <li>التعامل مع مكتبة tkinter لبناء واجهة بسيطة.</li>
+    </ul>
+  </li>
+  <li>
+    <p><a href="https://www.youtube.com/playlist?list=PLF8OvnCBlEY1j4hxoqXqJk08ASU7D_W87">حسين الربيعي: دورة برمجة بايثون Python Tutorials Arabic</a></p>
+
+    <ul>
+      <li>كيفية تثبيت بايثون.</li>
+      <li>الأساسيات.</li>
+      <li>التعابير المنطقية.</li>
+      <li>تتبع التنفيذ Debug لكشف الأخطاء.</li>
+      <li>معالجة الأخطاء.</li>
+      <li>الدوال.</li>
+      <li>التعامل مع الملفات.</li>
+      <li>البرمجة كائنية التوجه OOP.</li>
+      <li>تثبيت المكاتب الخارجية والتعامل معها، بالإضافة لبناء مكتبة خاصة بك.</li>
+      <li>التعامل مع قاعدة بيانات sqlite.</li>
+      <li>التعامل مع json.</li>
+      <li>تعلم بناء واجهة تطبيق مع تنفيذ لعبة Tic Tac Toy.</li>
+      <li>تنفيذ مشروح نظام حجوزات.</li>
+      <li>شرح مكتبة networkx.</li>
+    </ul>
+  </li>
+  <li>
+    <p>دورة محمود أحمد</p>
+
+    <ol>
+      <li>
+        <p><a href="https://www.youtube.com/playlist?list=PLtGOJcWqvbqfExUkG0ANIZ2Z6H6K0QcaE">الجزء الأول:</a></p>
+
+        <ul>
+          <li>المقدمة وشرح بعض المحررات لكتابة الكود.</li>
+          <li>تثبيت بايثون مع شرف الفرق بين Interpreter و Compiler.</li>
+          <li>الأساسيات.</li>
+        </ul>
+      </li>
+      <li>
+        <p><a href="https://www.youtube.com/playlist?list=PLtGOJcWqvbqePpE7IWDRTDXo_jjGvJsRA">الجزء الثاني:</a></p>
+
+        <ul>
+          <li>المقدمة.</li>
+          <li>البرمجة كائنية التوجه OOP.</li>
+        </ul>
+      </li>
+      <li>
+        <p><a href="https://www.youtube.com/playlist?list=PLtGOJcWqvbqdro121Y1IAbPOydAhyL13a">الجزء الثالث:</a></p>
+
+        <ul>
+          <li>المقدمة.</li>
+          <li>التعامل مع أهم المكاتب الأساسية.</li>
+        </ul>
+      </li>
+      <li>
+        <p><a href="https://www.youtube.com/playlist?list=PLtGOJcWqvbqdRIJa8fdHeVhDG46G3cA2e">الجزء الرابع:</a></p>
+
+        <ul>
+          <li>بناء مشاريع بسيطة.</li>
+        </ul>
+      </li>
+    </ol>
+  </li>
+  <li>
+    <p><a href="https://www.youtube.com/watch?v=MxYLqE3Ils8&amp;list=PLHIfW1KZRIfnM9y0sQRwjVz2-IwvnEJep">دورة أكادمية حسونة: Python بايثون الكل</a></p>
+
+    <ul>
+      <li>معلومات عامة عن البايثون واستخداماتها.</li>
+      <li>كيفي تثبيت بايثون.</li>
+      <li>الأساسيات.</li>
+      <li>التعامل مع الملفات والمجلدات.</li>
+      <li>شرح جملة with.</li>
+      <li>التعامل مع التاريخ والوقت.</li>
+      <li>التعابير المنطقية.</li>
+      <li>معالجة الأخطاء.</li>
+      <li>التعامل مع ملفات csv.</li>
+      <li>الدوال.</li>
+      <li>شرح pass.</li>
+      <li>البرمجة كائنية التوجه OOP.</li>
+      <li>شرح مكتبة tkinter بشكل موسع لبناء واجهة.</li>
+    </ul>
+  </li>
+  <li>
+    <p><a href="https://www.youtube.com/watch?v=AA7lc2Y6bzI&amp;list=PLYW0LRZ3ePo7ZCXH2VFAVlTZ_b6LJeOPB">دورة قناة بايثون حسام الحوراني:</a></p>
+
+    <ul>
+      <li>الأسياسيات بشكل سريع.</li>
+      <li>الاحصاء والرياضيات.</li>
+      <li>شرح مكتبة Numpy.</li>
+      <li>شرح مكتبة MatPlotLib.</li>
+      <li>شرح مكتبة Pandas.</li>
+      <li>الرياضيات بالرموز والتفاضل والتكامل وشرح مكتبة SymPy.</li>
+      <li>البرمجة كائنية التوجه OOP.</li>
+      <li>رسومات الاحصاء وشرح مكتبة Seaborn.</li>
+      <li>شرح مكتبة Scipy.</li>
+      <li>شرح المكتبات التي تتعامل مع Excel.</li>
+      <li>قواعد البيانات وشرح مكتبة SQLAlchemy و SQLite.</li>
+      <li>شرح مكتبة Bokeh للرسومات التفاعلية.</li>
+      <li>التعلم العميق مع Keras.</li>
+      <li>معالجة الصور Pillow.</li>
+      <li>معالجة اللغات الطبيعية NLP NLTK.</li>
+      <li>الوسائط المتعددة والرسومات والألعاب pyglet.</li>
+      <li>تخزين وتحميل مخرجات نماذج تعلم الالة والتعلم العميق</li>
+      <li>الارشادات والحيل في بايثون.</li>
+      <li>شرح مكتبة Arcade لبرمجة الألعاب.</li>
+      <li>التعامل مع  قواعد البيانات MySQL والتعامل مع مكتبة Pymysql.</li>
+      <li>التعامل مع ملفات json.</li>
+      <li>شرح مكتبة Theano.</li>
+      <li>شرح مكتبة Tensorflow.</li>
+      <li>التعامل مع ملفات csv و xml و txt.</li>
+      <li>شرح حول Image Processing, Video Processing باستخدام مكتبة OpenCV.</li>
+      <li>التعابير المنطقية.</li>
+      <li>شرح مكتبة VPython.</li>
+      <li>فحص واختبار برمجيات بايثون.</li>
+    </ul>
+  </li>
+  <li>
+    <p><a href="https://www.flexcourses.com/courses/python-intensive">البرمجة المكثفة باستخدام بايثون لعبد المجيب غير مجانية:</a></p>
+
+    <ul>
+      <li>الأساسيات.</li>
+      <li>الدوال.</li>
+      <li>الدوال المجهولة.</li>
+      <li>البرمجة كائنية التوجه OOP.</li>
+      <li>الحزم والوحدات.</li>
+      <li>Decorators.</li>
+      <li>Generators.</li>
+      <li>شرح بعض Modules الأساسية.</li>
+    </ul>
+  </li>
+  <li>
+    <p><a href="https://www.youtube.com/watch?v=JiRbacPf5pU&amp;list=PLTcPeoMjkuCwV-ZUabT5HVhLliTT9of2I">دورة أحمد أبو عيسى: أساسيات Python</a></p>
+
+    <ul>
+      <li>دورة تشرح الأساسيات بشكل متين.</li>
+    </ul>
+  </li>
+  <li>
+    <p><a href="https://www.youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs">دورة Elzero Web School: Mastering Python.</a></p>
+
+    <ul>
+      <li>الأساسيات.</li>
+      <li>الدوال.</li>
+      <li>هياكل البيانات.</li>
+      <li>التعامل مع الملفات.</li>
+      <li>التعامل مع التاريخ والوقت.</li>
+      <li>Generators.</li>
+      <li>Decorators.</li>
+    </ul>
+  </li>
+  <li>
+    <p><a href="https://www.youtube.com/watch?v=b1UEYdv-wuM&amp;list=PLs97GbUOC82kmwTurwN1v7HgB9piMJrHS">دورة فتحي العامري: دورة أساسيات Python</a></p>
+
+    <ul>
+      <li>الأساسيات.</li>
+    </ul>
+  </li>
+  <li>
+    <p><a href="https://www.youtube.com/playlist?list=PLPTNqXpQ2tbiesxZbUuG-kxi7_dKBYkcY">دورة نور حمصي: البايثون يتكلم عربي</a></p>
+
+    <ul>
+      <li>الأساسيات.</li>
+    </ul>
+  </li>
+  <li>
+    <p><a href="https://www.rwaq.org/courses/introduction-to-programming">مقدمة إلى برمجة الحاسب باستخدام لغة بايثون من رواق.</a></p>
+
+    <ul>
+      <li>الأساسيات.</li>
+    </ul>
+  </li>
+  <li>
+    <p><a href="https://www.youtube.com/playlist?list=PLdZYzC8fohEIpOvuXVDE0U00FDVGaUEOn">دورة الصافي الحجازي:</a></p>
+
+    <ul>
+      <li>الأساسيات.</li>
+    </ul>
+  </li>
+  <li>
+    <p><a href="https://www.youtube.com/playlist?list=PLknwEmKsW8OsG8dnisr_-2WGyx7lpgGEE">دورة عبد الرحمن جمال:</a></p>
+
+    <ul>
+      <li>الأساسيات.</li>
+    </ul>
+  </li>
+</ol>
+
+<h5 id="دورات-حسب-الموضوع">دورات حسب الموضوع:</h5>
+
+<ol>
+  <li>
+    <p>Python Security And Network:</p>
+
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=2DqgWxvpwIY&amp;list=PLCIJjtzQPZJ-k4ADq_kyuyWVSRPC5JxeG">عبد الله السكري</a></li>
+      <li><a href="https://www.youtube.com/playlist?list=PLMYF6NkLrdN8yzhFaq81BUegzMN_pdXFl">Python &amp; Nmap لمحمد عيسى.</a></li>
+      <li><a href="https://www.youtube.com/playlist?list=PLMYF6NkLrdN89W45s3c6kbjs0fHM8fe0c">Python Network &amp; Mikrotik لمحمد عيسى</a></li>
+      <li><a href="https://www.youtube.com/playlist?list=PLMYF6NkLrdN9wzmjRlcO1UsqgO6KUTODC">محمد عيسى شبكات</a></li>
+      <li><a href="https://www.youtube.com/playlist?list=PLMYF6NkLrdN8DPzAOW-ceFdrp-KTUSHFR">محمد عيسى قرصنة</a></li>
+      <li><a href="https://www.youtube.com/playlist?list=PLqi7yZF-SFcYEU_6u2MJw-pwl7d8wthpK">دورة أساسيات بايثون واستخدامها في اختبار الإختراق.</a></li>
+    </ul>
+  </li>
+  <li>Python OOP:
+    <ul>
+      <li><a href="https://www.youtube.com/playlist?list=PLHIfW1KZRIfmHvfmFZZ0XuzZYuoosG9kl">اكادمية حسونة</a></li>
+      <li><a href="https://www.udemy.com/python-object-oriented-programming-arabic/">محمود أحمد</a></li>
+      <li><a href="https://www.youtube.com/playlist?list=PLknwEmKsW8OsbviSITvtiwOmFBVr7LasI">عبد الرحمن جمال</a></li>
+    </ul>
+  </li>
+  <li>
+    <p>Python GUI:</p>
+
+    <ul>
+      <li><a href="https://www.youtube.com/playlist?list=PLTjpmsGYzQq6k_8DOtlhCfCqO-LrESN4z">شرح مكتبة Tkinter لمحمود أحمد</a></li>
+      <li><a href="https://www.youtube.com/playlist?list=PLUgHGaXGKJGmERb_7Uamn1eI9b3Gunh0g">شرح مكتبة Tkinter لمحمد رؤوف</a></li>
+      <li><a href="https://www.youtube.com/playlist?list=PLUgHGaXGKJGkerqrnl_u9woXKdtUH_hfs">شرح مكتبة kivy لمحمود رؤوف</a></li>
+      <li><a href="https://www.youtube.com/playlist?list=PLTjpmsGYzQq5OyK7Tp25kx_m5rPr76DEC">شرح مكتبة PyQT لمحمود أحمد</a></li>
+      <li><a href="https://www.youtube.com/playlist?list=PLtGOJcWqvbqf0sQkpTQhufQ0nW8rqqG4q">تصميم تطبيقات الديسك توب ب Qt Designer لمحمود أحمد</a></li>
+      <li><a href="https://www.youtube.com/playlist?list=PLHIfW1KZRIfmMhy8GltKHW5UJ_ZPnGJ0K">شرح مكتبة Tkinter لأكادمية حسونة</a></li>
+      <li><a href="https://www.youtube.com/playlist?list=PLtGOJcWqvbqe5fFCnTxameu-UBi2HI-Z0">برمجة مشروع لتحميل من اليوتيوب بواجهة PyQT5 لمحمود أحمد</a></li>
+      <li><a href="https://www.youtube.com/playlist?list=PLtGOJcWqvbqdxuWWox8bJAiT1AuRjDM7Z">برمجة نظام لإدارة مكتبة بفروعها بواجهة PyQT5</a></li>
+      <li><a href="https://www.youtube.com/playlist?list=PLdZYzC8fohEJBXcDCBoDGyo8paxECbATK">شرح مكتبة Tkinter للصافي حجازي.</a></li>
+      <li><a href="https://www.youtube.com/playlist?list=PLnzqK5HvcpwRd3yoMoUe1H5QFK2I6sGo9">شرح مكتبة PyQT5 لمحمد شوشان.</a></li>
+      <li><a href="https://www.youtube.com/playlist?list=PLN_sQXLvUWhXKYBsI1DbJyNkwgdDUIP0C">شرح مكتبة PyQT5 للمبرمج العربي.</a></li>
+    </ul>
+  </li>
+  <li>
+    <p>Database:</p>
+
+    <ul>
+      <li><a href="https://www.youtube.com/playlist?list=PLl7A6RG4XKeY8rD2K0805eVrdR4qlxkpt">database (ORM) لمهدي أحمد</a></li>
+      <li><a href="https://www.youtube.com/playlist?list=PLMYF6NkLrdN81QmQL5Eur5xrEcqtKkDtK">محمد عيسى</a></li>
+      <li><a href="https://www.youtube.com/playlist?list=PLtGOJcWqvbqdlIavCvpToEyFDXaoE21P4">التعامل مع الداتا بيز لمحمود أحمد</a></li>
+    </ul>
+  </li>
+  <li>
+    <p>Machine Learning:</p>
+
+    <ul>
+      <li><a href="https://www.youtube.com/playlist?list=PLYW0LRZ3ePo4TFeouzYff88TStgS-X52R">حسام الحوراني</a></li>
+      <li><a href="https://www.youtube.com/playlist?list=PLvLvlVqNQGHC3uV0T6TTndqNDDR69tN_1">أبو بكر سليمان</a></li>
+      <li><a href="https://www.youtube.com/playlist?list=PLImVLP5cXFNQSCXVOOzzWjteK8DatmprS">حازم خالد محمد</a></li>
+      <li><a href="https://www.youtube.com/playlist?list=PLAI6JViu7XmfZsTX6pJPMgMHwLXAEPlKe">Neural Network بالعربي</a></li>
+      <li><a href="https://www.youtube.com/playlist?list=PLAI6JViu7XmflH_eGgsWkwvv6lbXhYjjY">Deep learning</a></li>
+    </ul>
+  </li>
+  <li>
+    <p>Data Science:</p>
+
+    <ul>
+      <li><a href="https://www.youtube.com/playlist?list=PLvLvlVqNQGHCb2_ygmr1DQOMOv0yXp84F">شرح مكتبة Pandas.</a></li>
+      <li><a href="https://www.rwaq.org/courses/sea_python_level1">مدخل إلى علم البيانات المستوى الأول من رواق.</a></li>
+      <li><a href="https://www.youtube.com/playlist?list=PLMYF6NkLrdN9oTARJ9BE1EChtcsPjPEZQ">علم البيانات مع بايثون لمحمد عيسى</a></li>
+    </ul>
+  </li>
+  <li>
+    <p>Image Processing:</p>
+
+    <ul>
+      <li><a href="https://www.youtube.com/playlist?list=PLImVLP5cXFNS-TAKeRHpp0_SzGuwBUFnT">دورة بايثون لمعالجة الصور لحازم خالد.</a></li>
+    </ul>
+  </li>
+  <li>
+    <p>Web Crawling:</p>
+
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=GX4DR8_eeM4&amp;list=PLvLvlVqNQGHBxA9uRN_x9r6BrcBqi526F">شرح مكتبة PyQuery لأبو بكر سليمان</a></li>
+      <li><a href="https://www.youtube.com/playlist?list=PLvLvlVqNQGHD1XUJSYfYezvs9gLdaWHId">شرح مكتبة Selenium لأبو بكر سليمان</a></li>
+      <li><a href="https://www.youtube.com/playlist?list=PLwerRebku82Fcw4EBYs1EOlUlP3msNdxg">selenium in python {Necktie}</a></li>
+      <li><a href="https://www.youtube.com/playlist?list=PLl7A6RG4XKeZwTnMl7MFPUyo_qsh0z_ND">Web Scraping With Beautiful Soup لمهدي أحمد</a></li>
+    </ul>
+  </li>
+  <li>
+    <p>Threading Module:</p>
+
+    <ul>
+      <li><a href="https://www.youtube.com/playlist?list=PLTjpmsGYzQq5iNjmaBW17vE_widIeflBd">محمود أحمد</a></li>
+    </ul>
+  </li>
+  <li>
+    <p>OS Module:</p>
+
+    <ul>
+      <li><a href="https://www.youtube.com/playlist?list=PLTjpmsGYzQq78AZPTUnWY1s_wvW3SCwv4">محمود أحمد</a></li>
+      <li><a href="https://www.youtube.com/playlist?list=PLwerRebku82FX7gAhf18zPRhC2B4XZS7i">OS in python {Necktie}</a></li>
+      <li><a href="https://www.youtube.com/playlist?list=PLwerRebku82FnWhSRqLjXml8ZKmnPZvt9">autopy in python {Necktie}</a></li>
+    </ul>
+  </li>
+  <li>
+    <p>Convert Py to EXE:</p>
+
+    <ul>
+      <li><a href="https://www.youtube.com/playlist?list=PLtGOJcWqvbqf1RMjesQ2BKkZuoQwdbH7e">محمود أحمد</a></li>
+    </ul>
+  </li>
+  <li>
+    <p>Flask:</p>
+
+    <ul>
+      <li><a href="https://www.youtube.com/playlist?list=PLfDx4cQoUNObFOYvkcNQG8arJX95TRE47">دورة تعلم Flask.</a></li>
+      <li><a href="https://www.youtube.com/playlist?list=PLl7A6RG4XKeZo9gNbZ4vNygMHm7a7-E7G">Flask Web Development لمهدي أحمد.</a></li>
+      <li><a href="https://academy.hsoub.com/programming/python/flask/">مقالات أكادمية حسوب.</a></li>
+      <li><a href="https://io.hsoub.com/webdev/77681-%D8%A5%D8%B5%D8%AF%D8%A7%D8%B1-%D8%A7%D9%84%D9%83%D8%AA%D8%A7%D8%A8-%D8%A7%D9%84%D9%85%D8%AA%D8%B1%D8%AC%D9%85-%D8%A7%D8%B3%D8%AA%D9%83%D8%B4%D9%81-%D9%81%D9%84%D8%A7%D8%B3%D9%83">كتاب استكشف فلاسك.</a></li>
+      <li><a href="https://www.youtube.com/playlist?list=PLHqnUR3OCFAnVs_oFATDk0byWdc4X15PX">دورة ترجمة كتاب flask mega.</a></li>
+    </ul>
+  </li>
+  <li>Django:
+    <ul>
+      <li><a href="/Learn-Django-Arabic/">مصادر عربية لتعلم إطار العمل جانغو.</a></li>
+    </ul>
+  </li>
+  <li>
+    <p>Telegram Bot:</p>
+
+    <ul>
+      <li><a href="https://www.youtube.com/playlist?list=PLMYF6NkLrdN_FTKGUnmLVeCAn6BblkkbV">Python &amp; Telegram لمحمد عيسى</a></li>
+    </ul>
+  </li>
+</ol>
+
+<h5 id="كتب">كتب:</h5>
+
+<ol>
+  <li><a href="https://academy.hsoub.com/files/15-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-%D8%A8%D9%84%D8%BA%D8%A9-%D8%A8%D8%A7%D9%8A%D8%AB%D9%88%D9%86/">البرمجة بلغة بايثون من أكادمية حسوب</a></li>
+  <li><a href="https://itwadi.com/node/2621">تعليم بايثون 3.</a></li>
+  <li><a href="https://www.kutub.info/library/book/19881">فكر بايثون.</a></li>
+  <li><a href="https://itwadi.com/byteofpython_arabi">خطوة على طريق بايثون.</a></li>
+  <li><a href="https://linuxac.org/filedata/fetch?id=852858">مقدمة في البرمجة عن طريق بايثون.</a></li>
+  <li><a href="https://drive.google.com/file/d/1IOQjGyNB52ylhKCqT6qttI4koskpTKan/view?usp=drivesdk">نزهة مع بايثون.</a></li>
+</ol>
+
+<h5 id="مواقع">مواقع:</h5>
+
+<ul>
+  <li><a href="https://wiki.hsoub.com/Python">ترجمة توثيق بايثون الرسمي من حسوب.</a></li>
+  <li><a href="https://harmash.com/python/python-overview/">موقع هرماش.</a></li>
+  <li><a href="https://code4learn.teachable.com/blog">مدونة Code4Learn لمحمود أحمد.</a></li>
+  <li><a href="https://code4learn.teachable.com/courses">دورات موقع Code4Learn.</a></li>
+  <li><a href="https://app.barmej.com/%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%D8%A7%D8%AA-%D8%A7%D9%84%D9%88%D9%8A%D8%A8-%D8%A8%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85-Django">مسار كامل من موقع barmej.</a></li>
+</ul>
+
+<h5 id="مجتمعات-بايثون-العربية">مجتمعات بايثون العربية:</h5>
+
+<ol>
+  <li>
+    <p>Telegram:</p>
+
+    <ul>
+      <li><a href="https://t.me/arabipython">مجتمع بايثون.</a></li>
+    </ul>
+  </li>
+  <li>
+    <p>Website:</p>
+
+    <ul>
+      <li><a href="https://io.hsoub.com/python">مجتمع بايثون في حسوب.</a></li>
+      <li><a href="https://io.hsoub.com/Flask">مجتمع فلاسك في حسوب.</a></li>
+    </ul>
+  </li>
+</ol>
+
+<blockquote>
+  <p>ليس المهم نوع المضمار الذي تسلكه، لكن المهم إذا اخترتَ مضماراً .. أن تكون بطله !</p>
+
+  <ul>
+    <li><a href="https://www.youtube.com/watch?v=GQfy_wLbKx8">عمار بن ناصر العتيبي</a></li>
+  </ul>
+</blockquote>
+:ET

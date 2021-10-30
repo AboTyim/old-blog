@@ -1,0 +1,553 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:4000/" rel="alternate" type="text/html" /><updated>2021-08-25T22:23:38-05:00</updated><id>http://0.0.0.0:4000/feed.xml</id><title type="html">أبو تيم</title><subtitle>اِبنُ أُمَّةٍ لا تَمُوت</subtitle><entry><title type="html">مصادر عربية لتعلم نظام التشغيل GNU/Linux</title><link href="http://0.0.0.0:4000/Learn-Linux-Arabic/" rel="alternate" type="text/html" title="مصادر عربية لتعلم نظام التشغيل GNU/Linux" /><published>2020-12-07T00:00:00-06:00</published><updated>2020-12-07T00:00:00-06:00</updated><id>http://0.0.0.0:4000/Learn-Linux-Arabic</id><content type="html" xml:base="http://0.0.0.0:4000/Learn-Linux-Arabic/">&lt;p&gt;&lt;img src=&quot;/images/posts/linux.png&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;المصادر المتوفرة لتعلم نظام التشغيل جنو لينكس على عدة أشكال:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;#المصادر-المرئية&quot;&gt;مرئية&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#المصادر-المقروءة&quot;&gt;مقروءة&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#مواقع-ويب&quot;&gt;مواقع ويب&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#قنوات-اليوتيوب&quot;&gt;قنوات اليوتيوب&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#مجتمعات-التلغرام&quot;&gt;مجتمعات التلغرام&lt;/a&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h5 id=&quot;المصادر-المرئية&quot;&gt;المصادر المرئية:&lt;/h5&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;محمد عيسى:&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLMYF6NkLrdN88blfl7hvm-wZ-sWtMeTQk&quot;&gt;دورة فيدورا للمبتدئين&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLMYF6NkLrdN8d2mjL1Nrgj7UPG9nFKIzP&quot;&gt;CentOS 7 Server&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLMYF6NkLrdN-LCv0FUOEol9rkpCu9SdAV&quot;&gt;RHEL7 RedHat - RHCSA&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLMYF6NkLrdN_HT_N4ZutZMmN98C1-7qUP&quot;&gt;RHCE 7 RedHat&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLMYF6NkLrdN9jgJCc3-saDdZRO7Bo29MV&quot;&gt;Security Enhanced Linux لتوزيعات ريدهات بالعربية&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;فتحي العامري:&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLs97GbUOC82mPezSNRYO-7zzk66_sAZHU&quot;&gt;سطر أوامر لينكس&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLs97GbUOC82lIo7sn2JyxWtq8jmHte5Aq&quot;&gt;دورة أوبنتو Ubuntu&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;منوع:&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLy1Fx2HfcmWBpD_PI4AQpjeDK5-5q6TG7&quot;&gt;Linux System Administration مصطفى حمودة&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLAZ__zcDB1IaNaVNOckNpgEpjghSHr8Gg&quot;&gt;دورة تعلم نظام اللينكس للمهندس نادر&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLs6emGC4vqRK0buaLWzZkxdNX6-WW0eh7&quot;&gt;دورة أساسيات لينكس من تكناوي دوت نت&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PL2Z9mQ8mdWnq5iZ1AOItsODys4IWeCDS3&quot;&gt;KVM&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PL2Z9mQ8mdWnp3m4Mg2QyJoqDWygdwLck4&quot;&gt;NFTables&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLBpclpRCG39qvWLuW94qCBzsr_iGTAyam&quot;&gt;linux distributions reviews مراجعات&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLvMWV2u1t1TSMVvP8Vba55sEXYh9W6HXu&quot;&gt;Linux Troubleshooting in Arabic آلاء زيدان&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLm7oacl7P6nsVdEhZ8wiB9RWabTUmPjha&quot;&gt;Linux Certified System Administrator 8 (Arabic)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;المصادر-المقروءة&quot;&gt;المصادر المقروءة:&lt;/h5&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://itwadi.com/node/2765&quot;&gt;كتاب سطر أوامر لينكس&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://librebooks.org/ubuntu-server-guide-arabic/&quot;&gt;كتاب دليل إدارة خواديم أوبنتو 14.04&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://librebooks.org/gnu-linux-advanced-administration/&quot;&gt;كتاب الإدارة المتقدمة لجنو/لينكس&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://librebooks.org/simply-ubuntu/&quot;&gt;كتاب أوبنتو ببساطة&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://librebooks.org/libreoffice-arabic-manual/&quot;&gt;كتاب دليل المستخدم في ليبر أوفيس&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;مواقع-ويب&quot;&gt;مواقع ويب:&lt;/h5&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://itwadi.com/&quot;&gt;وادي التقنية&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://gnulinuxsa.org/&quot;&gt;جنو/لينكس&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://linuxarabia.co/&quot;&gt;لينكس العرب&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://linuxaw.com/&quot;&gt;عالم لينكس العربي&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://aosus.org/&quot;&gt;أسس&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://linux-2-day.com/&quot;&gt;لينكس اليوم&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://io.hsoub.com/linux/&quot;&gt;مجتمع لينكس في حسوب&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;قنوات-اليوتيوب&quot;&gt;قنوات اليوتيوب:&lt;/h5&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/c/Linuxtopia&quot;&gt;Linuxtopia&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/c/iamlinux&quot;&gt;I’m Linux&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCYkWmRBvj9sVlRW3ahIxE2g&quot;&gt;Alaa Zidan&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCxUVBDLTSaVxjg0EyCWfFug&quot;&gt;Arab Linux Community&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCiEzlPeTjGHXZlqFV7KxZEQ&quot;&gt;Shako Mako Tech شكو ماكو&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/user/abdulmogeeb&quot;&gt;عرب جنو/لينكس&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/c/GnuTux&quot;&gt;Gnu Tux&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCsX5z40As3fslwarTan4C8w&quot;&gt;zer0err0r&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCw-JnwpGHlboG0b9wNYvZ2Q&quot;&gt;مفاتيح الحوسبة&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCMoMDhWBeMZhQ2axH8A1FIw&quot;&gt;ITSoft&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCzNSX45GeudSt-8xcU7wtQw&quot;&gt;عالم لينكس العربي&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;مجتمعات-التلغرام&quot;&gt;مجتمعات التلغرام:&lt;/h5&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://t.me/Arab_Linux&quot;&gt;مجموعة جنو/لينكس&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://t.me/AGLGUT&quot;&gt;إتحاد مجموعات غنو/لينكس والبرمجيات الحرة&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://t.me/linuxac_org&quot;&gt;مجموعة مجتمع لينكس العربي&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://t.me/arabfossusers&quot;&gt;مجموعة مستخدمي البرمجيات المفتوحة&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://t.me/aosus&quot;&gt;مجموعة مجتمع أُسُس&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://t.me/gnugeeksgroup&quot;&gt;مجموعة مهووسو جنو Gnu Geeks&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://t.me/gnugeeks&quot;&gt;قناة مهووسو جنو Gnu Geeks&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://t.me/GNUTUX&quot;&gt;قناة GNUTUX&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://t.me/linuxaw&quot;&gt;قناة عالم لينكس العربي&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;كفى بِحفظِ وَقتكَ عن فضول الإنشغال بالناس مغنمًا&lt;/p&gt;
+
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=nKW2rLJ2Ezw&quot;&gt;حفظ الوقت لفضيلة الشيخ محمد المختار الشنقيطي&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;</content><author><name>أبو تيم</name></author><category term="course" /><category term="course-arabic" /><category term="linux" /><category term="linux-arabic" /><category term="linux" /><category term="learn-linux" /><category term="arabic-linux" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://0.0.0.0:4000/images/posts/linux.png" /><media:content medium="image" url="http://0.0.0.0:4000/images/posts/linux.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">مصادر عربية لتعلم إطار العمل Django</title><link href="http://0.0.0.0:4000/Learn-Django-Arabic/" rel="alternate" type="text/html" title="مصادر عربية لتعلم إطار العمل Django" /><published>2020-08-11T00:00:00-05:00</published><updated>2020-08-11T00:00:00-05:00</updated><id>http://0.0.0.0:4000/Learn-Django-Arabic</id><content type="html" xml:base="http://0.0.0.0:4000/Learn-Django-Arabic/">&lt;p&gt;&lt;img src=&quot;/images/posts/django.png&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;panel seriesNote&quot;&gt;
+    &lt;strong&gt;سلسلة تعلم بايثون بالعربي:&lt;/strong&gt;
+    &lt;ul&gt;
+        
+        
+        
+        
+        &lt;li&gt;الجزء 1 -
+            
+            &lt;a href=&quot;/Learn-Python-Arabic/&quot;&gt;مصادر عربية لتعلم لغة البرمجة بايثون&lt;/a&gt;
+            
+        &lt;/li&gt;
+        
+        
+        
+        
+        
+        
+        &lt;li&gt;الجزء 2 -
+            
+            مصادر عربية لتعلم إطار العمل Django
+            
+        &lt;/li&gt;
+        
+        
+        
+        
+    &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;المصادر المتوفرة لإطار العمل على عدة أشكال:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;#المصادر-المرئية&quot;&gt;مرئية&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#المصادر-المقروءة&quot;&gt;مقروءة&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#المجتمعات-العربية&quot;&gt;المجتمعات العربية&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h5 id=&quot;المصادر-المرئية&quot;&gt;المصادر المرئية:&lt;/h5&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;شبكة علوم | أحمد أبو عيسى:
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLTcPeoMjkuCxoyflbe4AuNWMZWulKVbr4&quot;&gt;دورة Django 2.x.&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;محمد شوشان:
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLnzqK5HvcpwT8CbcwHMZkjlmN1BdbOBWB&quot;&gt;Django Tutorials for Beginners.&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLnzqK5HvcpwRCqH9qJSM67ZPBC7MD1Pa3&quot;&gt;Django Tutorials Level 2 (REST API).&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;محمود أحمد:
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLtGOJcWqvbqfv9yQelR4HETqU35alUoW6&quot;&gt;الدليل الشامل لتعلم دجانجو 3&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://code4learn.teachable.com/p/python-django-full-guide-arabic&quot;&gt;المرجع الشامل لتعلم دجانجو&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://code4learn.teachable.com/p/learn-django-in-arabic&quot;&gt;ابدا اتعلم جانغو.&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLtGOJcWqvbqfio_BvIw_sLqHCUQ5XPpyZ&quot;&gt;اساسيات برمجة المواقع بجانغو.&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLtGOJcWqvbqfm1KN_9qc7vpn5e9XwP9U3&quot;&gt;كيفيه التعامل مع المستخدمين دجانجو 2.&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLtGOJcWqvbqe5gwryXy9uxpPhm236hL42&quot;&gt;كيفية التعامل مع المستخدمين في جانغو.&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLtGOJcWqvbqdSdcHeukSUJKxiUpELCnFg&quot;&gt;برمجة متجر الكتروني ببايثون ودجانجو 2.&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLtGOJcWqvbqc3cbs0cpSrr1jiGgSbjlik&quot;&gt;التعامل مع ال Class Based Views في دجانجو&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://code4learn.teachable.com/p/d4a3d7&quot;&gt;مكتبات خاصة بجانغو.&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLtGOJcWqvbqeVCY78dcKJFXItin0BEujT&quot;&gt;كيفيه رفع مشروع جانجو على DigitalOcean.&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLtGOJcWqvbqcq6ExuyRT0SNw8iKopFpV1&quot;&gt;كلام في دجانجو Django.&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;مهدي أحمد:
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLl7A6RG4XKeaLJsAmb5O2F2T-QDxPc7Ut&quot;&gt;Django Forms.&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLl7A6RG4XKebUJtwiOm7Yso5HgN3jC8Ll&quot;&gt;انشاء متجر الكتروني باستخدام جانقو.&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLl7A6RG4XKeYoiobPZmO7HtIoFBt6hV0O&quot;&gt;Real Time Chat with Django-channels.&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLl7A6RG4XKeZfwfZ9QMb1XlTgwmTrxQBK&quot;&gt;To Do List Django 2.0.&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLl7A6RG4XKeYpg51JOvlf-Znj78i_V_n_&quot;&gt;build advanced blog.&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLl7A6RG4XKeYrNzeF48o-z53DA14JZ-d9&quot;&gt;Blog API with Django Rest Framework&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;محمد عيسى:
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLMYF6NkLrdN9JJ7r0APq7O87gucjYWRfD&quot;&gt;Python-Django-Web دورة بايثون ويب ديجانكو.&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLMYF6NkLrdN-3ecpi7jD4pwxsyPVHWb4C&quot;&gt;Python 3 Django framework 1.11 مشروع من الصفر الى عمل تطبيق ويب جانكو بايثون.&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLMYF6NkLrdN_8KPztmgiAZpsNfXJcI-v5&quot;&gt;Django 2 REST API JWT CRUD.&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;أسماء الطويل:
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PL2z1gXAKH9c3XUn2HYMWRbAon4z6AQ4CL&quot;&gt;Django Tutorial for Beginners.&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PL2z1gXAKH9c3dglbz0tvLqJTJPVPgjW1x&quot;&gt;Django Rest Framework Tutorial.&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;عبد الرحمن جمال:
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLknwEmKsW8OtK_n48UOuYGxJPbSFrICxm&quot;&gt;دورة دجانجو كامل للمبتدئين.&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLknwEmKsW8Ot_JCzFaQ_XenaOe99VFmcM&quot;&gt;دورة نظام ادارة مكتبة بالدجانجو.&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;أخرى:
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://app.barmej.com/%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%D8%A7%D8%AA-%D8%A7%D9%84%D9%88%D9%8A%D8%A8-%D8%A8%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85-Django&quot;&gt;دورة برمجة المواقع مع جانغو من برمج دوت كوم.&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLUgHGaXGKJGn6A_NLDGG4B5AZ-ZexVsPn&quot;&gt;دورة إنشاء موقع Vezeta بإستخدام Django محمود رؤوف&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLF8OvnCBlEY3VqZkeKeyVdJ_J1Ek0ECbs&quot;&gt;دورة جانغو حسين الربيعي.&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLdZYzC8fohEKjuYyvITqYc2vL0lAWRvhs&quot;&gt;Python Django - تطوير المواقع لـ Elsafy Hegazy.&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLHIfW1KZRIfnYEkYsNi5XJLI57OWMKBjM&quot;&gt;جانجو حسونة أكاديمي&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h5 id=&quot;المصادر-المقروءة&quot;&gt;المصادر المقروءة:&lt;/h5&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://code4learn.teachable.com/blog&quot;&gt;مدونة تحتوي على مقالات خاصة بجانغو محمود أحمد.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://academy.hsoub.com/programming/python/django/&quot;&gt;مقالات أكادمية حسوب.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://3alam.pro/albader/series/django&quot;&gt;دورة إطار عمل جانغو من عالم البرمجة.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;المجتمعات-العربية&quot;&gt;المجتمعات العربية:&lt;/h5&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://io.hsoub.com/django&quot;&gt;مجتمع جانغو في حسوب.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://t.me/DjangoPython&quot;&gt;مجتمع جانغو في تلغرام&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;وإني وإن كنتُ الأخيرَ زمانهُ … لآتٍ بما لم تستطعهُ الأوائلُ&lt;/p&gt;
+
+  &lt;ul&gt;
+    &lt;li&gt;أبو العلاء المعري&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;</content><author><name>أبو تيم</name></author><category term="course" /><category term="course-arabic" /><category term="python" /><category term="django" /><category term="django-arabic" /><category term="python" /><category term="django" /><category term="learn-django" /><category term="arabic-django" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://0.0.0.0:4000/images/posts/django.png" /><media:content medium="image" url="http://0.0.0.0:4000/images/posts/django.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">مصادر عربية لتعلم تقنية Docker</title><link href="http://0.0.0.0:4000/Learn-Docker-Arabic/" rel="alternate" type="text/html" title="مصادر عربية لتعلم تقنية Docker" /><published>2020-05-15T00:00:00-05:00</published><updated>2020-05-15T00:00:00-05:00</updated><id>http://0.0.0.0:4000/Learn-Docker-Arabic</id><content type="html" xml:base="http://0.0.0.0:4000/Learn-Docker-Arabic/">&lt;p&gt;&lt;img src=&quot;/images/posts/docker.png&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;المصادر الموفرة لهذه التقنية على عدة أشكال:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;#المصادر-المرئية&quot;&gt;مرئية&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#المصادر-المسموعة&quot;&gt;مسموعة.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#المصادر-المقروءة&quot;&gt;مقروءة&lt;/a&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h5 id=&quot;المصادر-المرئية&quot;&gt;المصادر المرئية:&lt;/h5&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLxNoJq6k39G8zg-t26bV-JGLokr0mgNKk&quot;&gt;دورة Containerization من Garage Education.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLcWvtt1Kdxjdbz8JzGdR5wgsTfx9Mo4Ei&quot;&gt;دورة Docker - Build, Ship, Run - Arabic من Mohamed Rezk.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLMYF6NkLrdN-vRESJh6XOEaLudHS8chDC&quot;&gt;دورة دوكر باللغة العربية من محمد عيسى.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=ZYVdPnqpdUc&amp;amp;list=PLCsn73jgrZ7fQOGpnb_KY3ackH9LUjFtC&quot;&gt;دورة Docker in Arabic من Ziyaad Qasem.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.udemy.com/course/docker-ar/&quot;&gt;دورة Learn Docker مدفوعة.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=nQ6tflsf0aU&quot;&gt;فيديو يشرح مقدمة في Docker.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=wRl4Zzpcblk&quot;&gt;GDGMENA: مقدمة إلى تقنية الحاويات.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=-N3Ob7hHUD4&quot;&gt;GDGMENA: ضع تطبيقاتك في حاويات باستخدام Docker.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PL_vMoUyBr3srNzFgQXbAjcxMfb-JpRyIN&quot;&gt;سلسلة تعليم دوكر من صوت المبرمج.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLfDx4cQoUNOY76BQBReTszByDaUiOEhC7&quot;&gt;تعلم Docker.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLdYYj2XLw5Bmx7lN1flO4eXGGyieUkfBa&quot;&gt;Docker For Developers Docker.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=oxRjGqjUXFA&quot;&gt;ورشة تعليم دوكر بالعربي.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLX1bW_GeBRhDkTf_jbdvBbkHs2LCWVeXZ&quot;&gt;Docker سلسلة تعلم.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLDz4D4ch3hrP_HAqTQjPayqmRDv4mLTgN&quot;&gt;Docker and Kubernetes Deep Dive.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;المصادر-المسموعة&quot;&gt;المصادر المسموعة:&lt;/h5&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://nullplus.plus/episodes/episode5-docker-intro-quick-tips&quot;&gt;شرح من بودكاست null++&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;المصادر-المقروءة&quot;&gt;المصادر المقروءة:&lt;/h5&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://informatic-ar.com/%D8%AE%D8%B7%D9%88%D8%A7%D8%AA%D9%83-%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%89-%D9%81%D9%8A-%D8%AF%D9%88%D9%83%D8%B1/&quot;&gt;كتاب خطواتك الأولى في Docker للأخ وجدي عصام عبد الرحيم.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://academy.hsoub.com/devops/cloud-computing/docker/&quot;&gt;سلسلة مقالات في أكادمية حسوب.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://informatic-ar.com/category/programming/docker/&quot;&gt;سلسلة مقالات للأخ وجدي عصام عبد الرحيم.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://3alam.pro/3mmarg97/series/introduction-to-docker&quot;&gt;سلسلة مقالات مقدمة إلى Docker مقدمة من عالم البرمجة.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.r1sk.net/docker-containers/&quot;&gt;مقال يشرح Docker Containers.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;أطلبُ العِلمَ ولا تكسَلْ فمـا … أبعـدَ الخيرَ على أهـلِ الكَسَلْ&lt;/p&gt;
+
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=CzGfuo-k6Q4&quot;&gt;لامية ابن الوردي&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;</content><author><name>أبو تيم</name></author><category term="course" /><category term="course-arabic" /><category term="docker" /><category term="docker-arabic" /><category term="docker" /><category term="learn-docker" /><category term="arabic-docker" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://0.0.0.0:4000/images/posts/docker.png" /><media:content medium="image" url="http://0.0.0.0:4000/images/posts/docker.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">مصادر عربية لتعلم لغة البرمجة بايثون</title><link href="http://0.0.0.0:4000/Learn-Python-Arabic/" rel="alternate" type="text/html" title="مصادر عربية لتعلم لغة البرمجة بايثون" /><published>2019-02-04T00:00:00-06:00</published><updated>2019-02-04T00:00:00-06:00</updated><id>http://0.0.0.0:4000/Learn-Python-Arabic</id><content type="html" xml:base="http://0.0.0.0:4000/Learn-Python-Arabic/">&lt;p&gt;&lt;img src=&quot;/images/posts/python.png&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;panel seriesNote&quot;&gt;
+    &lt;strong&gt;سلسلة تعلم بايثون بالعربي:&lt;/strong&gt;
+    &lt;ul&gt;
+        
+        
+        
+        
+        &lt;li&gt;الجزء 1 -
+            
+            مصادر عربية لتعلم لغة البرمجة بايثون
+            
+        &lt;/li&gt;
+        
+        
+        
+        
+        
+        
+        &lt;li&gt;الجزء 2 -
+            
+            &lt;a href=&quot;/Learn-Django-Arabic/&quot;&gt;مصادر عربية لتعلم إطار العمل Django&lt;/a&gt;
+            
+        &lt;/li&gt;
+        
+        
+        
+        
+    &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;مصادر عربية لتعلم لغة البرمجة بايثون في جميع مجالات اللغة:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;أولًا: هنالك دورات شاملة تقريبًا تحتوي على الأساسيات والبرمجة كائنية التوجه والتعامل مع قواعد البيانات والملفات إلخ …&lt;/p&gt;
+
+&lt;p&gt;ثانيًا: هنالك دورات بسيطة لموضوع ما، مثلًا التعامل مع الشبكات فقط وهكذا.&lt;/p&gt;
+
+&lt;p&gt;ملاحظة لم نراعي الترتيب في الأفضلية، عليك كطالب أن تدخل وتتصفح الدورات وترى أي دورة تناسبك، وضعنا لك وصف كل دورة حتى يسهل عليك اختيار ما يناسبك.&lt;/p&gt;
+
+&lt;h2 id=&quot;أنواع-مصادر-التعلم&quot;&gt;أنواع مصادر التعلم:&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;#دورات-شاملة&quot;&gt;دورات شاملة&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#oop&quot;&gt;OOP&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#algorithms--data-structures&quot;&gt;Algorithms &amp;amp; Data Structures&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#pyqt&quot;&gt;PyQT&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#kivy&quot;&gt;Kivy&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#tkinter&quot;&gt;Tkinter&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#database&quot;&gt;Database&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#security--network&quot;&gt;Security &amp;amp; Network&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#machine-learning&quot;&gt;Machine Learning&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#image-processing&quot;&gt;Image Processing&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#web-crawling&quot;&gt;Web Crawling&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#flask&quot;&gt;Flask&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#django&quot;&gt;Django&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#os&quot;&gt;OS&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#منوع&quot;&gt;منوع&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#كتب&quot;&gt;كتب&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#مواقع&quot;&gt;مواقع&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#مجتمعات-بايثون-العربية&quot;&gt;مجتمعات بايثون العربية&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;دورات-شاملة&quot;&gt;دورات شاملة:&lt;/h5&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs&quot;&gt;أكاديمية الزيرو: Mastering Python.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLuXY3ddo_8nzrO74UeZQVZOb5-wIS6krJ&quot;&gt;كودزيلا: Master Python from Beginner to Advanced.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://app.barmej.com/%D9%85%D9%82%D8%AF%D9%85%D8%A9-%D8%B9%D9%86-%D9%84%D8%BA%D8%A9-%D8%A8%D8%A7%D9%8A%D8%AB%D9%88%D9%86&quot;&gt;منصة برمج: مسار بايثون.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLMYF6NkLrdN98I0nEXOuR_gK8b4w-NJcN&quot;&gt;محمد عيسى: دورة Python 3 أساسيات ومتقدم.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=rzqjYKyciUM&amp;amp;list=PLF8OvnCBlEY1j4hxoqXqJk08ASU7D_W87&quot;&gt;حسين الربيعي: دورة برمجة بايثون Python Tutorials Arabic.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLtGOJcWqvbqfExUkG0ANIZ2Z6H6K0QcaE&quot;&gt;محمود أحمد: أساسيات بايثون الجزء الأول.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLHIfW1KZRIfnM9y0sQRwjVz2-IwvnEJep&quot;&gt;أكاديمية حسونة: بايثون الكل.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLTcPeoMjkuCwV-ZUabT5HVhLliTT9of2I&quot;&gt;شبكة علوم: أساسيات Python.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLGmkOBY-mRWn51JDXe4_QKeqCSN0pfP3J&quot;&gt;يونس: دورة بايثون.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLknwEmKsW8OsG8dnisr_-2WGyx7lpgGEE&quot;&gt;عبد الرحمن جمال: Python for Beginners.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLfDx4cQoUNOazcliAXXivOrg9GiAVuoQg&quot;&gt;أكاديمية الخوارزميات: دورة تعلم بايثون.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLPTNqXpQ2tbiesxZbUuG-kxi7_dKBYkcY&quot;&gt;نور حمصي: البايثون بيتكلم عربي.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLs97GbUOC82kmwTurwN1v7HgB9piMJrHS&quot;&gt;فتحي العامري: دورة أساسيات Python.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLdZYzC8fohEIpOvuXVDE0U00FDVGaUEOn&quot;&gt;الصافي حجازي: Python 3 Basics.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.rwaq.org/courses/introduction-to-programming&quot;&gt;منصة رواق: مقدمة إلى برمجة الحاسب باستخدام لغة Python.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLN_sQXLvUWhWPrV7uLYOia_ZzFexVPrbI&quot;&gt;المبرمج العربي: أساسيات Python.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLnzqK5HvcpwR1X4imwck6n1Pc0uXpToDn&quot;&gt;محمد شوشان: بايثون المستوى الأول.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://academy.hsoub.com/learn/computer-science/&quot;&gt;أكاديمية حسوب : دورة علوم الحاسب - مدفوعة.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.flexcourses.com/courses/python-intensive&quot;&gt;فكلس كورسز: دورة برمجة بايثون - مدفوعة.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;دورات-حسب-الموضوع&quot;&gt;دورات حسب الموضوع:&lt;/h5&gt;
+
+&lt;h5 id=&quot;oop&quot;&gt;OOP:&lt;/h5&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLuXY3ddo_8nzUrgCyaX_WEIJljx_We-c1&quot;&gt;كودزيلا.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=XWOT0qkRKTU&quot;&gt;مجتمع بايثون العربي.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLwerRebku82H_OfcclIG0XU3aHUBNqWb-&quot;&gt;محمد المالكي.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLAlLx-t8NswN3c34237O8VFZQej109y5E&quot;&gt;محمد فاضل.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLGmkOBY-mRWklZzSwSEzqlwJgrDnSxLIj&quot;&gt;يونس.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLHIfW1KZRIfmHvfmFZZ0XuzZYuoosG9kl&quot;&gt;أكاديمية حسونة.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLtGOJcWqvbqePpE7IWDRTDXo_jjGvJsRA&quot;&gt;محمود أحمد.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLdZYzC8fohEIcH9GBec7JsQjMmYWavvHL&quot;&gt;الصافي حجازي.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLnzqK5HvcpwQvoI1O-2_e5UcGux1oN6Mh&quot;&gt;محمد شوشان.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLknwEmKsW8Ov3RrFB4jl6h9h6zvsSil5E&quot;&gt;عبد الرحمن جمال.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Python GUI:&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLTjpmsGYzQq6k_8DOtlhCfCqO-LrESN4z&quot;&gt;شرح مكتبة Tkinter لمحمود أحمد&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLUgHGaXGKJGmERb_7Uamn1eI9b3Gunh0g&quot;&gt;شرح مكتبة Tkinter لمحمد رؤوف&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLUgHGaXGKJGkerqrnl_u9woXKdtUH_hfs&quot;&gt;شرح مكتبة kivy لمحمود رؤوف&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLTjpmsGYzQq5OyK7Tp25kx_m5rPr76DEC&quot;&gt;شرح مكتبة PyQT لمحمود أحمد&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLtGOJcWqvbqf0sQkpTQhufQ0nW8rqqG4q&quot;&gt;تصميم تطبيقات الديسك توب ب Qt Designer لمحمود أحمد&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLHIfW1KZRIfmMhy8GltKHW5UJ_ZPnGJ0K&quot;&gt;شرح مكتبة Tkinter لأكادمية حسونة&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLtGOJcWqvbqe5fFCnTxameu-UBi2HI-Z0&quot;&gt;برمجة مشروع لتحميل من اليوتيوب بواجهة PyQT5 لمحمود أحمد&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLtGOJcWqvbqdxuWWox8bJAiT1AuRjDM7Z&quot;&gt;برمجة نظام لإدارة مكتبة بفروعها بواجهة PyQT5&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLdZYzC8fohEJBXcDCBoDGyo8paxECbATK&quot;&gt;شرح مكتبة Tkinter للصافي حجازي.&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLnzqK5HvcpwRd3yoMoUe1H5QFK2I6sGo9&quot;&gt;شرح مكتبة PyQT5 لمحمد شوشان.&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLN_sQXLvUWhXKYBsI1DbJyNkwgdDUIP0C&quot;&gt;شرح مكتبة PyQT5 للمبرمج العربي.&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Database:&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLl7A6RG4XKeY8rD2K0805eVrdR4qlxkpt&quot;&gt;database (ORM) لمهدي أحمد&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLMYF6NkLrdN81QmQL5Eur5xrEcqtKkDtK&quot;&gt;محمد عيسى&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLtGOJcWqvbqdlIavCvpToEyFDXaoE21P4&quot;&gt;التعامل مع الداتا بيز لمحمود أحمد&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Machine Learning:&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLYW0LRZ3ePo4TFeouzYff88TStgS-X52R&quot;&gt;حسام الحوراني&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLvLvlVqNQGHC3uV0T6TTndqNDDR69tN_1&quot;&gt;أبو بكر سليمان&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLImVLP5cXFNQSCXVOOzzWjteK8DatmprS&quot;&gt;حازم خالد محمد&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLAI6JViu7XmfZsTX6pJPMgMHwLXAEPlKe&quot;&gt;Neural Network بالعربي&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLAI6JViu7XmflH_eGgsWkwvv6lbXhYjjY&quot;&gt;Deep learning&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Data Science:&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLvLvlVqNQGHCb2_ygmr1DQOMOv0yXp84F&quot;&gt;شرح مكتبة Pandas.&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.rwaq.org/courses/sea_python_level1&quot;&gt;مدخل إلى علم البيانات المستوى الأول من رواق.&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLMYF6NkLrdN9oTARJ9BE1EChtcsPjPEZQ&quot;&gt;علم البيانات مع بايثون لمحمد عيسى&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Image Processing:&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLImVLP5cXFNS-TAKeRHpp0_SzGuwBUFnT&quot;&gt;دورة بايثون لمعالجة الصور لحازم خالد.&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Web Crawling:&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=GX4DR8_eeM4&amp;amp;list=PLvLvlVqNQGHBxA9uRN_x9r6BrcBqi526F&quot;&gt;شرح مكتبة PyQuery لأبو بكر سليمان&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLvLvlVqNQGHD1XUJSYfYezvs9gLdaWHId&quot;&gt;شرح مكتبة Selenium لأبو بكر سليمان&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLwerRebku82Fcw4EBYs1EOlUlP3msNdxg&quot;&gt;selenium in python {Necktie}&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLl7A6RG4XKeZwTnMl7MFPUyo_qsh0z_ND&quot;&gt;Web Scraping With Beautiful Soup لمهدي أحمد&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Threading Module:&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLTjpmsGYzQq5iNjmaBW17vE_widIeflBd&quot;&gt;محمود أحمد&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;OS Module:&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLTjpmsGYzQq78AZPTUnWY1s_wvW3SCwv4&quot;&gt;محمود أحمد&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLwerRebku82FX7gAhf18zPRhC2B4XZS7i&quot;&gt;OS in python {Necktie}&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLwerRebku82FnWhSRqLjXml8ZKmnPZvt9&quot;&gt;autopy in python {Necktie}&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Convert Py to EXE:&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLtGOJcWqvbqf1RMjesQ2BKkZuoQwdbH7e&quot;&gt;محمود أحمد&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Flask:&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLfDx4cQoUNObFOYvkcNQG8arJX95TRE47&quot;&gt;دورة تعلم Flask.&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLl7A6RG4XKeZo9gNbZ4vNygMHm7a7-E7G&quot;&gt;Flask Web Development لمهدي أحمد.&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://academy.hsoub.com/programming/python/flask/&quot;&gt;مقالات أكادمية حسوب.&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://io.hsoub.com/webdev/77681-%D8%A5%D8%B5%D8%AF%D8%A7%D8%B1-%D8%A7%D9%84%D9%83%D8%AA%D8%A7%D8%A8-%D8%A7%D9%84%D9%85%D8%AA%D8%B1%D8%AC%D9%85-%D8%A7%D8%B3%D8%AA%D9%83%D8%B4%D9%81-%D9%81%D9%84%D8%A7%D8%B3%D9%83&quot;&gt;كتاب استكشف فلاسك.&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLHqnUR3OCFAnVs_oFATDk0byWdc4X15PX&quot;&gt;دورة ترجمة كتاب flask mega.&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Django:
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;/Learn-Django-Arabic/&quot;&gt;مصادر عربية لتعلم إطار العمل جانغو.&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Telegram Bot:&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLMYF6NkLrdN_FTKGUnmLVeCAn6BblkkbV&quot;&gt;Python &amp;amp; Telegram لمحمد عيسى&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h5 id=&quot;كتب&quot;&gt;كتب:&lt;/h5&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;https://academy.hsoub.com/files/15-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-%D8%A8%D9%84%D8%BA%D8%A9-%D8%A8%D8%A7%D9%8A%D8%AB%D9%88%D9%86/&quot;&gt;البرمجة بلغة بايثون من أكادمية حسوب&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://itwadi.com/node/2621&quot;&gt;تعليم بايثون 3.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.kutub.info/library/book/19881&quot;&gt;فكر بايثون.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://itwadi.com/byteofpython_arabi&quot;&gt;خطوة على طريق بايثون.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://linuxac.org/filedata/fetch?id=852858&quot;&gt;مقدمة في البرمجة عن طريق بايثون.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://drive.google.com/file/d/1IOQjGyNB52ylhKCqT6qttI4koskpTKan/view?usp=drivesdk&quot;&gt;نزهة مع بايثون.&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h5 id=&quot;مواقع&quot;&gt;مواقع:&lt;/h5&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://wiki.hsoub.com/Python&quot;&gt;ترجمة توثيق بايثون الرسمي من حسوب.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://harmash.com/python/python-overview/&quot;&gt;موقع هرماش.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://code4learn.teachable.com/blog&quot;&gt;مدونة Code4Learn لمحمود أحمد.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://code4learn.teachable.com/courses&quot;&gt;دورات موقع Code4Learn.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://app.barmej.com/%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%D8%A7%D8%AA-%D8%A7%D9%84%D9%88%D9%8A%D8%A8-%D8%A8%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85-Django&quot;&gt;مسار كامل من موقع barmej.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;مجتمعات-بايثون-العربية&quot;&gt;مجتمعات بايثون العربية:&lt;/h5&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Telegram:&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://t.me/arabipython&quot;&gt;مجتمع بايثون.&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Website:&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://io.hsoub.com/python&quot;&gt;مجتمع بايثون في حسوب.&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://io.hsoub.com/Flask&quot;&gt;مجتمع فلاسك في حسوب.&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;ليس المهم نوع المضمار الذي تسلكه، لكن المهم إذا اخترتَ مضماراً .. أن تكون بطله !&lt;/p&gt;
+
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=GQfy_wLbKx8&quot;&gt;عمار بن ناصر العتيبي&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;</content><author><name>أبو تيم</name></author><category term="course" /><category term="python" /><category term="python-arabic" /><category term="python" /><category term="learn-python" /><category term="arabic-python" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://0.0.0.0:4000/images/posts/python.png" /><media:content medium="image" url="http://0.0.0.0:4000/images/posts/python.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
