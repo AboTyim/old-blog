@@ -235,12 +235,12 @@ series: "سلسلة تعلم بايثون بالعربي"
 
 ##### مواقع:
 
+- [منصة سطر التعليمية.](https://satr.codes)
 - [أكاديمية حسوب: ترجمة توثيق بايثون.](https://wiki.hsoub.com/Python)
 - [مدونة بايثونات.](https://pythonat.com/)
 - [موقع هرماش.](https://harmash.com/python/python-overview/)
 - [مدونة محمود أحمد.](https://code4learn.teachable.com/blog)
 - [بايثون بالعربي.](https://pythonarabic.github.io/blog/)
-
 
 
 ##### مجتمعات بايثون العربية:
